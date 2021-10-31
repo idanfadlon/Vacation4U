@@ -1,0 +1,6 @@
+5
+H4 Hilton LA 2 2 2021 5 2 2021 3 0 4 1400 6 0 203040501 US Room for three first-class accommodation, the hotel has a pool and room service  
+H9 CrownPlaza Maiami 4 4 2021 5 4 2021 2 1 5 950 3 0 203040501 US Double room for one night at the Cran Plaza Hotel in Miami includes breakfast
+H5 Leonardo Venzia 5 3 2021 9 3 2021 2 1 5 1200 14 0 207080352 EU Suite at the Leonardo Hotel 5 stars Full board including room service at the hotel Pool, spa, drinks bar
+H8 Herods Greece 30 12 2021 2 1 2022 3 0 3 500 10 0 207080352 EU Hotel in Greece, 2 nights, triple room with balcony and sea view
+H12 Hilton Milano 10 1 2021 14 1 2021 2 1 5 1800 4 0 203040501 EU suit in "hilton" milano italy pool, spa, service room

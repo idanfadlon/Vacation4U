@@ -1,0 +1,6 @@
+5
+F6 Israel Polin 1 1 2021 1 1 2021 150 EU E 2 1 1 0 207073545 "Israir" flight one direction to polin
+F4 LA Israel 2 2 2021 2 2 2021 70 US B 4 0 1 0 203040501 One Way flight from LA to Tel Aviv Israel, Bussnius class comfortable seats personal service
+F8 TelAviv Rome 14 1 2021 20 1 2021 800 EU E 25 1 0 0 305090602 An El Al flight from Ben Gurion Airport to Rome on a 3-hour connection in Turkey.
+F7 Victoria TelAviv 10 3 2021 10 3 2021 150 AU E 4 0 1 0 104070802 Direct flight from Australia to Tel Aviv Low cost flight in economy class
+F9 TelAviv Zambia 14 6 2021 20 6 2021 2900 AF B 0 0 0 1 801045632 Round trip flight to South Africa.Flight with "Africa Airlines" in Business Class. Personal flight attendant and full service

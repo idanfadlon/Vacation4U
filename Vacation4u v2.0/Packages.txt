@@ -1,0 +1,10 @@
+9
+P1 10 12 2020 15 12 2020 1100 EU Israel France 3 0 5 207073545 11 0   great vacation in Paris France include round trip flight "El Al", Hotel "Paris" realy next to eiffel tower
+P2 20 12 2020 23 12 2020 750 EU Israel Spain 1 0 7 207073545 7 0  2 nights in Madrid, include flights and hotel room for one traveler
+P3 15 1 2021 20 1 2021 2500 US Israel UnitedStats 10 0 1 203040501 25 1   Organizeition trip for 10 people to New York,include flights go and return, Accommodation in "Hilton" hotel
+P5 1 5 2021 7 5 2021 5000 US Israel Washington 5 1 9 203040501 50 0   Discounted family package for a week, vacation including all hotel flights, guided tours right at the entrance to the hotel
+P4 3 3 2021 8 3 2021 1600 EU Israel Spain 2 6 9 305090602 16 0   Double package to Barcelona Spain, hotel and flights included. Possibility to go on tours at Camp Nou Stadium
+P6 24 5 2021 30 5 2021 1800 AU Israel Victoria 3 2 0 104070802 18 0   Comprehensive vacation package to Victoria Australia, couple plus one child in a 5 star hotel including round trip flights
+P8 1 5 2021 6 5 2021 2400 AS Israel China 2 3 0 301498751 24 0   A complete package for a vacation in China, including flights and accommodation in a 4-star hotel. Designed for 2 passengers
+P7 1 8 2021 1 8 2022 30000 US Israel Hawaii 1 2 0 201478536 300 0   A full year package in Hawaii, including flights, without hotel accommodation.
+P10 1 1 2022 10 1 2022 8000 US Israel LA 4 5 0 201478536 80 0   Vacation package includes hotels and flights Hilton Hotel in Los Angeles room for 4
